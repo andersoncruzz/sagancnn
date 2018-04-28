@@ -1,0 +1,14 @@
+*.pyc
+database/
+data/
+emojis/
+experimental_model/
+haarcascade_files/
+logs/
+matrixconfusion/
+model/
+model-full-data/
+model-test/
+__pycache__
+utils/
+constants_database.py
