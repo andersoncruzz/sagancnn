@@ -1,0 +1,48 @@
+Acurácia do modelo: alexnet-17800
+0.5433712442709218
+             precision    recall  f1-score   support
+
+      angry       0.39      0.50      0.44       799
+  disgusted       0.45      0.17      0.25        87
+    fearful       0.37      0.33      0.35       777
+      happy       0.74      0.79      0.76      1575
+        sad       0.40      0.29      0.34       799
+  surprised       0.72      0.64      0.67       716
+    neutral       0.49      0.52      0.51      1138
+
+avg / total       0.54      0.54      0.54      5891
+
+
+
+Acurácia do modelo: inceptionV3-34000
+0.5291122050585639
+             precision    recall  f1-score   support
+
+      angry       0.43      0.40      0.41       799
+  disgusted       0.13      0.25      0.17        87
+    fearful       0.39      0.36      0.37       777
+      happy       0.81      0.77      0.79      1575
+        sad       0.29      0.38      0.32       799
+  surprised       0.72      0.64      0.68       716
+    neutral       0.49      0.46      0.47      1138
+
+avg / total       0.55      0.53      0.54      5891
+
+
+
+Acurácia do modelo: resnet-11250
+0.6049906637243252
+             precision    recall  f1-score   support
+
+      angry       0.61      0.42      0.50       799
+  disgusted       0.69      0.28      0.39        87
+    fearful       0.35      0.47      0.40       777
+      happy       0.87      0.81      0.84      1575
+        sad       0.41      0.42      0.41       799
+  surprised       0.71      0.76      0.73       716
+    neutral       0.56      0.61      0.58      1138
+
+avg / total       0.62      0.60      0.61      5891
+
+
+

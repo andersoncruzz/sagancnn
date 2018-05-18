@@ -1,0 +1,320 @@
+Acurácia do modelo: inceptionV3-11600
+0.5567180616740088
+             precision    recall  f1-score   support
+
+      angry       0.26      0.33      0.29      1650
+  disgusted       0.00      0.00      0.00      1226
+    fearful       0.26      0.06      0.10      1410
+      happy       0.68      0.94      0.79      6971
+        sad       0.21      0.15      0.17      2174
+  surprised       0.88      0.64      0.74      3155
+    neutral       0.39      0.48      0.43      3390
+
+avg / total       0.51      0.56      0.52     19976
+
+
+
+Acurácia do modelo: inceptionV3-14200
+0.5828494193031638
+             precision    recall  f1-score   support
+
+      angry       0.32      0.44      0.37      1650
+  disgusted       0.00      0.00      0.00      1226
+    fearful       0.21      0.22      0.22      1410
+      happy       0.91      0.82      0.86      6971
+        sad       0.24      0.15      0.19      2174
+  surprised       0.67      0.83      0.74      3155
+    neutral       0.42      0.57      0.48      3390
+
+avg / total       0.56      0.58      0.57     19976
+
+
+
+Acurácia do modelo: inceptionV3-15625
+0.6047757308770525
+             precision    recall  f1-score   support
+
+      angry       0.46      0.29      0.35      1650
+  disgusted       0.46      0.03      0.06      1226
+    fearful       0.28      0.18      0.22      1410
+      happy       0.87      0.87      0.87      6971
+        sad       0.25      0.21      0.23      2174
+  surprised       0.71      0.81      0.76      3155
+    neutral       0.40      0.67      0.50      3390
+
+avg / total       0.60      0.60      0.58     19976
+
+
+
+Acurácia do modelo: inceptionV3-16000
+0.6161894273127754
+             precision    recall  f1-score   support
+
+      angry       0.38      0.46      0.42      1650
+  disgusted       0.27      0.05      0.09      1226
+    fearful       0.31      0.29      0.30      1410
+      happy       0.88      0.86      0.87      6971
+        sad       0.29      0.35      0.31      2174
+  surprised       0.81      0.76      0.79      3155
+    neutral       0.48      0.56      0.52      3390
+
+avg / total       0.62      0.62      0.61     19976
+
+
+
+Acurácia do modelo: inceptionV3-16600
+0.6197937525030036
+             precision    recall  f1-score   support
+
+      angry       0.58      0.22      0.32      1650
+  disgusted       0.36      0.13      0.20      1226
+    fearful       0.40      0.13      0.20      1410
+      happy       0.83      0.89      0.86      6971
+        sad       0.30      0.22      0.26      2174
+  surprised       0.79      0.78      0.79      3155
+    neutral       0.41      0.74      0.52      3390
+
+avg / total       0.61      0.62      0.59     19976
+
+
+
+Acurácia do modelo: inceptionV3-19800
+0.6479775730877052
+             precision    recall  f1-score   support
+
+      angry       0.51      0.39      0.44      1650
+  disgusted       0.44      0.45      0.44      1226
+    fearful       0.36      0.24      0.29      1410
+      happy       0.89      0.87      0.88      6971
+        sad       0.34      0.46      0.39      2174
+  surprised       0.90      0.68      0.78      3155
+    neutral       0.50      0.64      0.56      3390
+
+avg / total       0.67      0.65      0.65     19976
+
+
+
+Acurácia do modelo: inceptionV3-20200
+0.644173007609131
+             precision    recall  f1-score   support
+
+      angry       0.52      0.34      0.41      1650
+  disgusted       0.62      0.30      0.40      1226
+    fearful       0.31      0.27      0.29      1410
+      happy       0.90      0.85      0.87      6971
+        sad       0.35      0.32      0.33      2174
+  surprised       0.74      0.84      0.79      3155
+    neutral       0.47      0.67      0.55      3390
+
+avg / total       0.65      0.64      0.64     19976
+
+
+
+Acurácia do modelo: inceptionV3-21000
+0.6585402482979575
+             precision    recall  f1-score   support
+
+      angry       0.54      0.34      0.42      1650
+  disgusted       0.57      0.30      0.39      1226
+    fearful       0.36      0.29      0.32      1410
+      happy       0.89      0.88      0.88      6971
+        sad       0.35      0.45      0.39      2174
+  surprised       0.78      0.82      0.80      3155
+    neutral       0.52      0.63      0.57      3390
+
+avg / total       0.66      0.66      0.65     19976
+
+
+
+Acurácia do modelo: inceptionV3-21600
+0.6585402482979575
+             precision    recall  f1-score   support
+
+      angry       0.43      0.55      0.48      1650
+  disgusted       0.47      0.51      0.49      1226
+    fearful       0.39      0.35      0.37      1410
+      happy       0.90      0.86      0.88      6971
+        sad       0.36      0.45      0.40      2174
+  surprised       0.87      0.73      0.80      3155
+    neutral       0.57      0.55      0.56      3390
+
+avg / total       0.68      0.66      0.67     19976
+
+
+
+Acurácia do modelo: inceptionV3-23000
+0.676561874249099
+             precision    recall  f1-score   support
+
+      angry       0.53      0.40      0.46      1650
+  disgusted       0.63      0.45      0.52      1226
+    fearful       0.40      0.34      0.37      1410
+      happy       0.89      0.87      0.88      6971
+        sad       0.41      0.46      0.44      2174
+  surprised       0.81      0.79      0.80      3155
+    neutral       0.53      0.67      0.59      3390
+
+avg / total       0.68      0.68      0.68     19976
+
+
+
+Acurácia do modelo: inceptionV3-24600
+0.6491289547456949
+             precision    recall  f1-score   support
+
+      angry       0.52      0.33      0.40      1650
+  disgusted       0.34      0.60      0.43      1226
+    fearful       0.43      0.23      0.30      1410
+      happy       0.78      0.94      0.85      6971
+        sad       0.41      0.34      0.37      2174
+  surprised       0.91      0.68      0.78      3155
+    neutral       0.55      0.56      0.56      3390
+
+avg / total       0.65      0.65      0.64     19976
+
+
+
+Acurácia do modelo: inceptionV3-25600
+0.6866740088105727
+             precision    recall  f1-score   support
+
+      angry       0.50      0.51      0.50      1650
+  disgusted       0.63      0.46      0.53      1226
+    fearful       0.39      0.41      0.40      1410
+      happy       0.86      0.90      0.88      6971
+        sad       0.45      0.44      0.44      2174
+  surprised       0.82      0.79      0.80      3155
+    neutral       0.58      0.60      0.59      3390
+
+avg / total       0.69      0.69      0.69     19976
+
+
+
+Acurácia do modelo: inceptionV3-26250
+0.678464156988386
+             precision    recall  f1-score   support
+
+      angry       0.44      0.57      0.49      1650
+  disgusted       0.51      0.50      0.50      1226
+    fearful       0.40      0.40      0.40      1410
+      happy       0.87      0.89      0.88      6971
+        sad       0.44      0.43      0.43      2174
+  surprised       0.87      0.74      0.80      3155
+    neutral       0.60      0.58      0.59      3390
+
+avg / total       0.69      0.68      0.68     19976
+
+
+
+Acurácia do modelo: inceptionV3-26800
+0.6870744893872647
+             precision    recall  f1-score   support
+
+      angry       0.55      0.45      0.49      1650
+  disgusted       0.57      0.56      0.57      1226
+    fearful       0.41      0.41      0.41      1410
+      happy       0.91      0.85      0.88      6971
+        sad       0.43      0.54      0.48      2174
+  surprised       0.85      0.78      0.81      3155
+    neutral       0.56      0.66      0.60      3390
+
+avg / total       0.70      0.69      0.69     19976
+
+
+
+Acurácia do modelo: inceptionV3-27500
+0.6556868241890268
+             precision    recall  f1-score   support
+
+      angry       0.51      0.46      0.49      1650
+  disgusted       0.69      0.33      0.44      1226
+    fearful       0.30      0.45      0.36      1410
+      happy       0.92      0.83      0.87      6971
+        sad       0.39      0.48      0.43      2174
+  surprised       0.75      0.84      0.79      3155
+    neutral       0.56      0.54      0.55      3390
+
+avg / total       0.68      0.66      0.66     19976
+
+
+
+Acurácia do modelo: inceptionV3-28400
+0.6940328394072888
+             precision    recall  f1-score   support
+
+      angry       0.55      0.47      0.50      1650
+  disgusted       0.57      0.54      0.55      1226
+    fearful       0.42      0.40      0.41      1410
+      happy       0.87      0.90      0.88      6971
+        sad       0.46      0.48      0.47      2174
+  surprised       0.85      0.78      0.81      3155
+    neutral       0.58      0.63      0.60      3390
+
+avg / total       0.69      0.69      0.69     19976
+
+
+
+Acurácia do modelo: inceptionV3-30200
+0.683019623548258
+             precision    recall  f1-score   support
+
+      angry       0.59      0.43      0.50      1650
+  disgusted       0.69      0.43      0.53      1226
+    fearful       0.33      0.38      0.35      1410
+      happy       0.89      0.87      0.88      6971
+        sad       0.49      0.44      0.47      2174
+  surprised       0.72      0.85      0.78      3155
+    neutral       0.56      0.64      0.60      3390
+
+avg / total       0.69      0.68      0.68     19976
+
+
+
+Acurácia do modelo: inceptionV3-31600
+0.6815178213856627
+             precision    recall  f1-score   support
+
+      angry       0.65      0.38      0.48      1650
+  disgusted       0.70      0.46      0.56      1226
+    fearful       0.36      0.40      0.38      1410
+      happy       0.92      0.83      0.87      6971
+        sad       0.47      0.47      0.47      2174
+  surprised       0.73      0.86      0.79      3155
+    neutral       0.52      0.69      0.60      3390
+
+avg / total       0.70      0.68      0.68     19976
+
+
+
+Acurácia do modelo: inceptionV3-34000
+0.7012414897877453
+             precision    recall  f1-score   support
+
+      angry       0.54      0.51      0.52      1650
+  disgusted       0.56      0.57      0.56      1226
+    fearful       0.47      0.42      0.44      1410
+      happy       0.88      0.88      0.88      6971
+        sad       0.47      0.53      0.50      2174
+  surprised       0.85      0.79      0.82      3155
+    neutral       0.59      0.62      0.61      3390
+
+avg / total       0.70      0.70      0.70     19976
+
+
+
+Acurácia do modelo: inceptionV3-34400
+0.6885762915498599
+             precision    recall  f1-score   support
+
+      angry       0.64      0.41      0.50      1650
+  disgusted       0.66      0.47      0.55      1226
+    fearful       0.42      0.37      0.39      1410
+      happy       0.90      0.86      0.88      6971
+        sad       0.47      0.48      0.48      2174
+  surprised       0.84      0.78      0.81      3155
+    neutral       0.50      0.74      0.60      3390
+
+avg / total       0.70      0.69      0.69     19976
+
+
+
